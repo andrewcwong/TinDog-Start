@@ -1,0 +1,126 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Comfortaa', cursive;
+  font-size: 3rem;
+  line-height: 1.2;
+
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+}
+
+h3{
+  font-family: 'Comfortaa', cursive;
+  font-weight: bolder;
+}
+
+p{
+  color: #8F8F8F;
+}
+
+.btn btn-dark{
+
+}
+
+.btn btn-outline-secondary{
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+    padding: 0 0 3rem;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 15px;
+}
+
+.nav-link{
+  font-size: 1.0rem;
+  font-family:
+}
+
+.dl-btn{
+  margin: 20px 15px 20px 0;
+}
+
+.title-img{
+  width: 500px;
+  padding-left: 50px;
+  // transform: rotate(25deg);
+}
+
+
+.icon{
+  color: #fecb89;
+  margin-bottom: 20px;
+}
+
+.icon:hover{
+  color:#ffa931;
+}
+
+#features{
+  padding: 8% 10%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+#title {
+  background-color: #ffa931;
+  color: black;
+}
+
+
+#testimonials{
+  text-align: center;
+    background-color: #ffa931;
+}
+
+.testimonial-img{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press {
+  background-color: #ffa931;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 150px;
+  padding: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing{
+  text-align: center;
+  margin: 50px 5%;
+
+}
+
+.card{
+  padding: 3% 2%;
+}
